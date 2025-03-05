@@ -1,0 +1,32 @@
+name: Daily Cricket Data Update
+
+on:
+  schedule:
+    - cron: "0 0 * * *" 
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: 3.8
+
+      - name: Install Dependencies
+        run: pip install pandas requests
+
+      - name: Run update script
+        run: python update_cricket_data.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.email "aryan.goel322004@gmail.com"
+          git config --global user.name "GitHub Action Bot"
+          git add .
+          git commit -m "Updated Cricket Data"
+          git push
