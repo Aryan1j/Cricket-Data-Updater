@@ -25,15 +25,19 @@ jobs:
       - name: Run update script
         run: python update_cricket_data.py
 
+        
       - name: Commit and Push Changes
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git remote remove origin
+          git remote remove origin || true
           git remote add origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/Aryan1j/Cricket-Data-Updater.git
+          git fetch origin
+          git checkout main
           git add updated_cricket_matches.csv
           git commit -m "Auto-update cricket dataset" || echo "No changes to commit"
           git push origin main
+
 
