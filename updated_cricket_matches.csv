@@ -772,6 +772,7 @@ T20,Philippines,China,Philippines,China,Sano International Cricket Ground,2025-0
 T20,Central Districts,Wellington,Central Districts,Central Districts,Basin Reserve,2018-01-14
 T20,Glamorgan,Somerset,Somerset,Somerset,"The Cooper Associates County Ground, Taunton",2022-06-03
 Test,England,West Indies,England,No Result,"Sir Vivian Richards Stadium, North Sound, Antigua",2022-03-08
+MDM,Northamptonshire,Gloucestershire,Gloucestershire,Northamptonshire,"County Ground, Northampton",2026-06-12
 MDM,Worcestershire,Glamorgan,Glamorgan,Worcestershire,"County Ground, New Road, Worcester",2019-09-10
 T20,Kent,Somerset,Somerset,Somerset,"St Lawrence Ground, Canterbury",2025-07-11
 T20,Namibia,Singapore,Singapore,Namibia,Dubai International Cricket Stadium,2019-10-26
@@ -1177,6 +1178,7 @@ T20,Lions,Warriors,Lions,Lions,"Kingsmead, Durban",2016-12-04
 T20,Kenya,Pakistan,Kenya,Pakistan,Gymkhana Club Ground,2007-09-04
 T20,Cumilla Warriors,Sylhet Thunder,Sylhet Thunder,No Result,Sylhet International Cricket Stadium,2020-01-02
 T20,Hong Kong,South Korea,Hong Kong,Hong Kong,"Yeonhui Cricket Ground, Incheon",2024-10-12
+T20,Brazil,Malawi,Malawi,Brazil,"Gahanga B Ground, Rwanda",2026-06-12
 T20,Knights,Cape Cobras,Cape Cobras,Cape Cobras,"Newlands, Cape Town",2017-11-26
 Test,Pakistan,England,Pakistan,England,Old Trafford,2006-07-27
 T20,South Africa,England,England,South Africa,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",2024-06-21
@@ -1187,6 +1189,7 @@ T20,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers 
 ODI,Scotland,Hong Kong,Hong Kong,No Result,"Grange Cricket Club Ground, Raeburn Place",2016-09-08
 T20,Bangladesh,Pakistan,Pakistan,Pakistan,"Gaddafi Stadium, Lahore",2025-06-01
 T20,Brisbane Heat,Melbourne Renegades,Brisbane Heat,Melbourne Renegades,"Brisbane Cricket Ground, Woolloongabba",2015-12-19
+T20,Thailand,Nepal,Thailand,Thailand,"Bayuemas Oval, Kuala Lumpur",2026-06-10
 ODI,Australia,West Indies,West Indies,Australia,Bradman Oval,2014-11-16
 T20,Vanuatu,Fiji,Vanuatu,Vanuatu,"N'Du Stadium, Noumea, New Caledonia",2025-03-12
 T20,Titans,Knights,Knights,Titans,"Diamond Oval, Kimberley",2017-11-15
@@ -1423,6 +1426,7 @@ T20,Sydney Sixers,Perth Scorchers,Perth Scorchers,Perth Scorchers,Sydney Cricket
 MDM,Tasmania,Victoria,Tasmania,Victoria,"Junction Oval, Melbourne",2022-03-15
 T20,St Lucia Kings,St Kitts and Nevis Patriots,St Kitts and Nevis Patriots,St Lucia Kings,"Brian Lara Stadium, Tarouba, Trinidad",2022-09-17
 ODM,Thunder,Western Storm,Thunder,Western Storm,"Sophia Gardens, Cardiff",2023-04-29
+T20,Hong Kong,Japan,Japan,Hong Kong,"YSD-UKM Cricket Oval, Bangi",2026-06-10
 T20,Birmingham Bears,Nottinghamshire,Birmingham Bears,Birmingham Bears,"Edgbaston, Birmingham",2024-06-01
 ODM,Warwickshire,The Blaze,Warwickshire,The Blaze,"Trent Bridge, Nottingham",2026-04-29
 ODI,Pakistan,South Africa,Pakistan,South Africa,"Sinovich Park, Sinoville",2007-01-24
@@ -1608,6 +1612,7 @@ T20,Central Districts,Otago,Otago,Central Districts,University Oval,2021-01-08
 MDM,Central Stags,Canterbury,Central Stags,Canterbury,"Hagley Oval, Christchurch",2021-03-19
 T20,Malaysia,Nepal,Malaysia,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",2023-10-31
 T20,United Arab Emirates,Zimbabwe,United Arab Emirates,Zimbabwe,"Tolerance Oval, Abu Dhabi",2024-04-27
+T20,Sweden,Austria,Austria,Sweden,"Botkyrka Cricket Center, Stockholm",2026-06-13
 T20,Central Districts,Northern Districts,Central Districts,Northern Districts,Pukekura Park,2017-12-30
 T20,West Indies,England,England,West Indies,Riverside Ground,2017-09-16
 T20,St Helena,Seychelles,Seychelles,Seychelles,"Achimota Senior Secondary School A Field, Accra",2026-03-25
@@ -1732,6 +1737,7 @@ T20,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,"MA Chidam
 T20,Ireland,Zimbabwe,Zimbabwe,Ireland,Harare Sports Club,2024-02-02
 ODI,England,West Indies,England,England,The Rose Bowl,2019-06-14
 T20,Dambulla Viiking,Colombo Kings,Dambulla Viiking,Dambulla Viiking,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",2020-12-01
+T20,Scotland,Ireland,Ireland,Scotland,"Old Trafford, Manchester",2026-06-13
 ODM,Kent,Glamorgan,Glamorgan,Glamorgan,"St Lawrence Ground, Canterbury",2016-06-12
 IT20,Kenya,Uganda,Kenya,Kenya,Gymkhana Club Ground,2016-09-28
 MDM,Somerset,Warwickshire,Somerset,No Result,"The Cooper Associates County Ground, Taunton",2023-04-06
@@ -2054,6 +2060,7 @@ T20,United Arab Emirates,Hong Kong,United Arab Emirates,United Arab Emirates,"Ma
 T20,Durbar Rajshahi,Rangpur Riders,Rangpur Riders,Durbar Rajshahi,"Shere Bangla National Stadium, Mirpur",2025-01-26
 MDM,Derbyshire,Sussex,Derbyshire,Sussex,"County Ground, Hove",2022-06-26
 MDM,Gloucestershire,Glamorgan,Glamorgan,No Result,"Sophia Gardens, Cardiff",2023-04-06
+T20,Norway,Austria,Austria,Norway,"Botkyrka Cricket Center, Stockholm",2026-06-12
 T20,Uttar Pradesh,Tripura,Tripura,Uttar Pradesh,"Abhimanyu Cricket Academy, Dehradun",2023-10-23
 ODI,England,Australia,Australia,Australia,"County Ground, Bristol",2024-09-29
 T20,Puducherry,Kerala,Puducherry,Kerala,Wankhede Stadium,2021-01-11
@@ -2215,6 +2222,7 @@ Test,India,Australia,Australia,India,Feroz Shah Kotla,2013-03-22
 T20,Chattogram Challengers,Rangpur Rangers,Rangpur Rangers,Rangpur Rangers,"Zahur Ahmed Chowdhury Stadium, Chattogram",2019-12-21
 T20,Gujarat,Maharashtra,Gujarat,Maharashtra,Holkar Stadium,2019-03-10
 T20,Seattle Orcas,Washington Freedom,Seattle Orcas,Washington Freedom,"Oakland Coliseum,Oakland",2025-06-14
+T20,Norway,Sweden,Sweden,Sweden,"Botkyrka Cricket Center, Stockholm",2026-06-11
 T20,Brisbane Heat,Hobart Hurricanes,Hobart Hurricanes,Brisbane Heat,"Brisbane Cricket Ground, Woolloongabba, Brisbane",2024-01-07
 ODM,United Arab Emirates,Nepal,United Arab Emirates,United Arab Emirates,Wanderers Cricket Ground,2018-02-15
 T20,Scotland,Malaysia,Scotland,Scotland,"Kinrara Academy Oval, Kuala Lumpur",2022-01-19
@@ -2277,6 +2285,7 @@ T20,Rwanda,Malawi,Malawi,Malawi,"Gahanga International Cricket Stadium, Rwanda",
 T20,Sydney Thunder,Melbourne Renegades,Melbourne Renegades,Melbourne Renegades,Stadium Australia,2011-12-30
 T20,Qatar,Bahrain,Bahrain,Qatar,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2025-12-16
 T20,India,Thailand,Thailand,India,Sylhet International Cricket Stadium,2022-10-13
+T20,Rwanda,Malawi,Malawi,Rwanda,"Gahanga B Ground, Rwanda",2026-06-11
 ODI,England,Australia,Australia,No Result,Edgbaston,2013-09-11
 T20,Cyprus,Estonia,Cyprus,Estonia,Happy Valley Ground,2024-06-17
 T20,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Mumbai Indians,"Kotambi Stadium, Vadodara",2026-01-26
@@ -2913,6 +2922,7 @@ T20,Sydney Thunder,Melbourne Stars,Sydney Thunder,Sydney Thunder,"North Sydney O
 Test,South Africa,India,South Africa,South Africa,"Barsapara Cricket Stadium, Guwahati",2025-11-22
 T20,Pakistan,West Indies,Pakistan,Pakistan,"National Stadium, Karachi",2021-12-14
 T20,Nigeria,Rwanda,Nigeria,Nigeria,"Gahanga International Cricket Stadium, Rwanda",2024-06-04
+MDM,Surrey,Hampshire,Hampshire,No Result,"Kennington Oval, London",2026-06-07
 T20,Australia,India,India,India,Sydney Cricket Ground,2020-12-06
 ODI,Kenya,Ireland,Ireland,Ireland,Mombasa Sports Club Ground,2012-02-20
 ODI,Hong Kong,Pakistan,Hong Kong,Pakistan,Dubai International Cricket Stadium,2018-09-16
@@ -3220,6 +3230,7 @@ T20,Uganda,Tanzania,Uganda,Tanzania,Integrated Polytechnic Regional Centre,2022-
 T20,Sunrisers,South East Stars,South East Stars,South East Stars,"Lord's, London",2024-06-06
 T20,Japan,Cook Islands,Cook Islands,Japan,Vanuatu Cricket Ground,2023-09-01
 MDM,Somerset,Kent,Kent,Somerset,"The Cooper Associates County Ground, Taunton",2024-05-17
+MDM,Yorkshire,Warwickshire,Warwickshire,No Result,"North Marine Road Ground, Scarborough",2026-06-12
 T20,England,India,England,England,Edgbaston,2014-09-07
 ODM,Kenya,Oman,Oman,Oman,United Cricket Club Ground,2018-02-15
 MDM,Northamptonshire,Lancashire,Northamptonshire,No Result,"Old Trafford, Manchester",2015-06-29
@@ -3351,6 +3362,7 @@ T20,Canterbury,Central Districts,Central Districts,Canterbury,"Hagley Oval, Chri
 T20,New Zealand,Sri Lanka,Sri Lanka,New Zealand,"Bay Oval, Mount Maunganui",2024-12-28
 ODM,Yorkshire,Gloucestershire,Gloucestershire,Gloucestershire,"Headingley, Leeds",2015-09-06
 T20,Rising Pune Supergiants,Sunrisers Hyderabad,Sunrisers Hyderabad,Sunrisers Hyderabad,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016-05-10
+T20,England,Sri Lanka,Sri Lanka,England,"Edgbaston, Birmingham",2026-06-12
 ODM,Uganda,Jersey,Uganda,Jersey,"Farmers Cricket Club Ground, St Martin",2022-08-05
 T20,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight Riders,Sawai Mansingh Stadium,2018-04-18
 MDM,Hampshire,Durham,Hampshire,No Result,"The Rose Bowl, Southampton",2024-05-10
@@ -3931,6 +3943,7 @@ T20,South Africa,Australia,South Africa,South Africa,St George's Park,2020-02-23
 T20,Vanuatu,Japan,Japan,Vanuatu,Vanuatu Cricket Ground,2023-08-30
 T20,Somerset,Glamorgan,Glamorgan,Glamorgan,Sophia Gardens,2015-06-13
 MDM,Northern Districts,Auckland Aces,Auckland Aces,Auckland Aces,"Eden Park Outer Oval, Auckland",2022-02-04
+T20,Nigeria,Brazil,Nigeria,Brazil,"Gahanga International Cricket Stadium, Rwanda",2026-06-11
 MDM,Warwickshire,Essex,Essex,Warwickshire,"Edgbaston, Birmingham",2026-04-17
 ODI,Pakistan,Sri Lanka,Pakistan,Pakistan,Dubai International Cricket Stadium,2011-11-18
 MDM,Sussex,Kent,Kent,No Result,"St Lawrence Ground, Canterbury",2021-07-11
@@ -4557,6 +4570,7 @@ T20,Titans,Lions,Titans,Lions,"The Wanderers Stadium, Johannesburg",2024-10-27
 T20,Malaysia,Papua New Guinea,Malaysia,Malaysia,"Tribhuvan University International Cricket Ground, Kirtipur",2022-03-29
 T20,Surrey,Kent,Kent,Kent,Kennington Oval,2019-07-30
 T20,Singapore,Japan,Singapore,Japan,Sano International Cricket Ground,2024-10-02
+T20,Rwanda,Nigeria,Rwanda,Rwanda,"Gahanga International Cricket Stadium, Rwanda",2026-06-12
 T20,Saudi Arabia,Kuwait,Saudi Arabia,Kuwait,"West End Park International Cricket Stadium, Doha",2023-09-15
 T20,Bangladesh,Scotland,Bangladesh,Bangladesh,Sharjah Cricket Stadium,2024-10-03
 T20,Oval Invincibles,Birmingham Phoenix,Oval Invincibles,Oval Invincibles,"Edgbaston, Birmingham",2025-08-12
@@ -4871,6 +4885,7 @@ ODI,Sri Lanka,Scotland,Scotland,Sri Lanka,"Queens Sports Club, Bulawayo",2023-06
 T20,Hampshire,Sussex,Sussex,Hampshire,County Ground,2015-07-17
 T20,Rangpur Riders,Dhaka Capitals,Dhaka Capitals,Rangpur Riders,"Shere Bangla National Stadium, Mirpur",2026-01-17
 ODI,India,Pakistan,Pakistan,India,"R Premadasa Stadium, Colombo",2023-09-10
+T20,Rwanda,Malawi,Rwanda,Rwanda,"Gahanga International Cricket Stadium, Rwanda",2026-06-15
 T20,Ireland,Netherlands,Netherlands,Ireland,Mulpani Cricket Ground,2026-01-30
 ODM,Tasmania,Western Australia,Western Australia,Western Australia,"Western Australia Cricket Association Ground, Perth",2026-02-10
 T20,Netherlands,United States of America,United States of America,Netherlands,"Sportpark Maarschalkerweerd, Utrecht",2025-06-11
@@ -4923,6 +4938,7 @@ T20,Germany,Italy,Italy,Italy,Bayer Uerdingen Cricket Ground,2024-07-28
 ODM,Surrey,Derbyshire,Surrey,Surrey,"County Ground, Derby",2025-08-22
 T20,Malaysia,Nepal,Malaysia,Nepal,"Bayuemas Oval, Kuala Lumpur",2026-05-22
 T20,Malta,Hungary,Malta,Hungary,Marsa Sports Club,2025-02-04
+T20,Worcestershire,Northamptonshire,Northamptonshire,Northamptonshire,"County Ground, Northampton",2026-06-09
 ODI,England,Bangladesh,Bangladesh,England,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2023-10-10
 ODI,Ireland,South Africa,South Africa,South Africa,Manuka Oval,2015-03-03
 T20,Sweden,Indonesia,Sweden,Indonesia,Udayana Cricket Ground,2026-04-13
@@ -5388,6 +5404,7 @@ T20,Melbourne Stars,Perth Scorchers,Melbourne Stars,Melbourne Stars,W.A.C.A. Gro
 T20,Yorkshire,Lancashire,Yorkshire,Lancashire,"Edgbaston, Birmingham",2022-07-16
 MDM,Leicestershire,Derbyshire,Derbyshire,No Result,"Grace Road, Leicester",2024-09-26
 ODI,Bangladesh,West Indies,Bangladesh,Bangladesh,Providence Stadium,2018-07-22
+ODM,Hampshire,Somerset,Somerset,Hampshire,"The Cooper Associates County Ground, Taunton",2026-06-13
 T20,Glamorgan,Northamptonshire,Northamptonshire,Northamptonshire,Edgbaston,2020-09-03
 ODM,Scotland,Namibia,Namibia,Scotland,"Grange Cricket Club Ground, Raeburn Place",2017-06-11
 T20,Botswana,Brazil,Botswana,Brazil,"Botswana Cricket Association Oval 1, Gaborone",2026-04-11
@@ -5756,6 +5773,7 @@ T20,Nigeria,United Arab Emirates,Nigeria,United Arab Emirates,Entebbe Cricket Ov
 T20,Dubai Capitals,Sharjah Warriorz,Sharjah Warriorz,Sharjah Warriorz,Sharjah Cricket Stadium,2025-01-17
 Test,India,West Indies,West Indies,India,Feroz Shah Kotla,2011-11-06
 T20,Melbourne Renegades,Melbourne Stars,Melbourne Renegades,Melbourne Stars,Melbourne Cricket Ground,2018-01-06
+ODM,Durham,Essex,Durham,Durham,"County Ground, Chelmsford",2026-06-13
 T20,Malta,Belgium,Belgium,Belgium,Marsa Sports Club,2021-07-09
 T20,Gulf Giants,Dubai Capitals,Dubai Capitals,Dubai Capitals,Dubai International Cricket Stadium,2025-01-23
 T20,England,Pakistan,England,England,Kinrara Academy Oval,2019-12-20
@@ -5968,6 +5986,7 @@ ODI,Bangladesh,India,India,India,Edgbaston,2019-07-02
 Test,Pakistan,India,Pakistan,No Result,Iqbal Stadium,2006-01-21
 ODI,West Indies,England,England,England,"The Cooper Associates County Ground, Taunton",2025-06-07
 T20,United States of America,Rwanda,United States of America,No Result,"Gahanga B Ground, Rwanda",2026-05-01
+T20,Durham,Lancashire,Durham,Lancashire,"Riverside Ground, Chester-le-Street",2026-06-09
 T20,Sydney Sixers,Hobart Hurricanes,Sydney Sixers,Sydney Sixers,Waverley Oval,2016-01-15
 T20,Germany,Spain,Spain,Spain,"Desert Springs Cricket Ground, Almeria",2021-09-11
 IT20,Kenya,Tanzania,Kenya,Kenya,Gahanga International Cricket Stadium. Rwanda,2018-07-13
@@ -6274,6 +6293,7 @@ T20,England,Pakistan,England,Pakistan,Old Trafford,2016-09-07
 MDM,Durham,Hampshire,Durham,Hampshire,"Riverside Ground, Chester-le-Street",2015-09-01
 T20,Antigua Hawksbills,Guyana Amazon Warriors,Antigua Hawksbills,Guyana Amazon Warriors,"Sir Vivian Richards Stadium, North Sound",2013-08-17
 IT20,Israel,Czech Republic,Czech Republic,Czech Republic,VRA Ground,2018-09-01
+T20,Indonesia,Thailand,Indonesia,Thailand,"Bayuemas Oval, Kuala Lumpur",2026-06-12
 IT20,Bangladesh,Zimbabwe,Zimbabwe,Bangladesh,Terdthai Cricket Ground,2015-12-03
 MDM,Durham,Yorkshire,Durham,Yorkshire,"Riverside Ground, Chester-le-Street",2020-08-01
 T20,Durham,The Blaze,The Blaze,No Result,"Trent Bridge, Nottingham",2025-07-06
@@ -6384,6 +6404,7 @@ ODM,South Australia,New South Wales,New South Wales,New South Wales,"Cricket Cen
 ODI,West Indies,New Zealand,West Indies,West Indies,"Warner Park, Basseterre",2012-07-14
 T20,Jammu & Kashmir,Punjab,Punjab,Punjab,Alur Cricket Stadium III,2021-01-16
 ODM,Jersey,Kenya,Jersey,Jersey,"Lugogo Cricket Oval, Kampala",2022-06-20
+T20,Jersey,Guernsey,Guernsey,Jersey,"Grainville, St Saviour",2026-06-14
 ODI,West Indies,India,West Indies,West Indies,"Sir Vivian Richards Stadium, North Sound",2017-07-02
 T20,Cameroon,Nigeria,Cameroon,Nigeria,"Gahanga International Cricket Stadium, Rwanda",2024-06-01
 ODM,Ace Capital Cricket Club,Nondescripts Cricket Club,Ace Capital Cricket Club,Nondescripts Cricket Club,"Nondescripts Cricket Club Ground, Colombo",2025-07-05
@@ -6638,6 +6659,7 @@ T20,Gulf Giants,Dubai Capitals,Gulf Giants,Dubai Capitals,Sharjah Cricket Stadiu
 T20,Australia,West Indies,West Indies,Australia,Adelaide Oval,2024-02-11
 T20,Kenya,Mali,Kenya,Kenya,"Botswana Cricket Association Oval 2, Gaborone",2026-05-23
 ODI,India,England,England,England,Himachal Pradesh Cricket Association Stadium,2013-01-27
+T20,Norway,Austria,Norway,Austria,"Botkyrka Cricket Center, Stockholm",2026-06-14
 T20,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2025-04-14
 T20,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,Royal Challengers Bangalore,M Chinnaswamy Stadium,2012-04-17
 ODM,Bangladesh,Papua New Guinea,Bangladesh,Bangladesh,Colombo Cricket Club Ground,2017-02-07
@@ -7222,6 +7244,7 @@ T20,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Mumbai Indians,Wankhede Sta
 T20,Nigeria,Kenya,Kenya,Kenya,"United Cricket Club Ground, Windhoek",2023-11-23
 MDM,Canterbury,Wellington Firebirds,Canterbury,Canterbury,"Mainpower Oval, Rangiora",2013-12-04
 ODI,Australia,Bangladesh,Bangladesh,Australia,Marrara Cricket Ground,2008-08-30
+ODI,Canada,United States of America,United States of America,United States of America,"Maple Leaf North-West Ground, King City",2026-06-12
 T20,Ghana,Sierra Leone,Sierra Leone,Sierra Leone,Integrated Polytechnic Regional Centre,2022-12-05
 T20,Leinster Lightning,Northern Knights,Northern Knights,Northern Knights,"Mardyke, Cork",2025-06-17
 ODI,England,South Africa,South Africa,No Result,Mangaung Oval,2005-02-02
@@ -8600,6 +8623,7 @@ ODM,Singapore,Vanuatu,Vanuatu,Singapore,Selangor Turf Club,2019-09-22
 T20,Eswatini,Mozambique,Eswatini,Eswatini,Malkerns Country Club oval,2025-09-12
 T20,Manchester Originals,Southern Brave,Southern Brave,No Result,"Old Trafford, Manchester",2021-08-05
 T20,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,Chennai Super Kings,Sheikh Zayed Stadium,2020-11-01
+T20,Nigeria,Brazil,Brazil,Brazil,"Gahanga B Ground, Rwanda",2026-06-15
 ODM,Leinster Lightning,Munster Reds,Munster Reds,Leinster Lightning,"Mardyke, Cork",2024-08-08
 MDM,Yorkshire,Gloucestershire,Gloucestershire,No Result,"County Ground, Bristol",2024-04-12
 T20,Nugegoda Sports Welfare Club,Police Sports Club,Police Sports Club,Police Sports Club,"Colts Cricket Club Ground, Colombo",2025-05-25
@@ -8830,6 +8854,7 @@ ODI,England,South Africa,South Africa,South Africa,Lord's,2017-05-29
 T20,Jamaica Tallawahs,Guyana Amazon Warriors,Guyana Amazon Warriors,Guyana Amazon Warriors,"Brian Lara Stadium, Tarouba",2017-09-06
 ODM,Warwickshire,Nottinghamshire,Nottinghamshire,Nottinghamshire,Rugby School Ground,2024-08-14
 T20,Denmark,Finland,Denmark,Denmark,"Svanholm Park, Brondby",2023-05-18
+T20,Malawi,Nigeria,Malawi,Nigeria,"Gahanga International Cricket Stadium, Rwanda",2026-06-14
 ODI,New Zealand,Bangladesh,New Zealand,New Zealand,Hagley Oval,2016-12-26
 T20,Vidarbha,Arunachal Pradesh,Arunachal Pradesh,Vidarbha,Gokaraju Liala Gangaaraju ACA Cricket Ground,2021-11-04
 MDM,Kent,Middlesex,Middlesex,Middlesex,"Lord's, London",2023-04-27
@@ -9140,6 +9165,7 @@ T20,Andhra,Nagaland,Andhra,Andhra,"Dr. Gokaraju Laila Ganga Raju ACA Cricket Com
 ODM,Durham,Sussex,Durham,Sussex,"Riverside Ground, Chester-le-Street",2022-08-17
 T20,Trent Rockets,Oval Invincibles,Oval Invincibles,Oval Invincibles,"Trent Bridge, Nottingham",2022-08-17
 T20,Gloucestershire,Sussex,Sussex,Sussex,County Ground,2017-08-11
+T20,Austria,Finland,Austria,Finland,"Botkyrka Cricket Center, Stockholm",2026-06-11
 ODI,Australia,West Indies,West Indies,Australia,Trent Bridge,2019-06-06
 T20,Kent,Essex,Essex,Essex,St Lawrence Ground,2016-07-22
 T20,Fortune Barishal,Khulna Tigers,Fortune Barishal,Khulna Tigers,"Shere Bangla National Stadium, Mirpur",2023-02-10
@@ -9976,6 +10002,7 @@ T20,Nottinghamshire,Derbyshire,Nottinghamshire,Nottinghamshire,Trent Bridge,2015
 T20,Hobart Hurricanes,Sydney Sixers,Sydney Sixers,Sydney Sixers,"Bellerive Oval, Hobart",2021-10-17
 ODI,Zimbabwe,South Africa,Zimbabwe,South Africa,St George's Park,2005-03-02
 T20,Adelaide Strikers,Sydney Thunder,Sydney Thunder,Adelaide Strikers,Adelaide Oval,2026-01-06
+T20,Rwanda,Brazil,Rwanda,Rwanda,"Gahanga B Ground, Rwanda",2026-06-14
 T20,Jammu & Kashmir,Services,Jammu & Kashmir,Services,Arun Jaitley Stadium,2018-01-08
 ODM,Lancashire,Kent,Kent,Lancashire,"St Lawrence Ground, Canterbury",2015-08-08
 T20,Gloucestershire,Glamorgan,Glamorgan,Gloucestershire,Sophia Gardens,2017-08-03
@@ -10043,6 +10070,7 @@ MDM,Somerset,Northamptonshire,Northamptonshire,Somerset,"County Ground, Northamp
 ODI,Zimbabwe,Pakistan,Pakistan,Zimbabwe,Harare Sports Club,2013-08-27
 T20,Vidarbha,Rajasthan,Vidarbha,Vidarbha,C B Patel Ground,2019-02-25
 T20,Norway,Portugal,Portugal,Portugal,Santarem Cricket Ground,2025-04-09
+T20,New Zealand,West Indies,West Indies,West Indies,"The Rose Bowl, Southampton",2026-06-13
 ODI,South Africa,Zimbabwe,Zimbabwe,South Africa,The Wanderers Stadium,2005-02-25
 T20,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,Royal Challengers Bengaluru,"Kotambi Stadium, Vadodara",2026-02-05
 T20,Maldives,Bhutan,Maldives,Bhutan,"Terdthai Cricket Ground, Bangkok",2024-02-16
@@ -10339,6 +10367,7 @@ T20,Chattogram Challengers,Khulna Tigers,Chattogram Challengers,Chattogram Chall
 ODI,Australia,New Zealand,Australia,Australia,North Sydney Oval,2012-12-19
 ODI,South Africa,Australia,South Africa,South Africa,St George's Park,2011-10-23
 MDM,Somerset,Kent,Somerset,Kent,"St Lawrence Ground, Canterbury",2022-09-26
+T20,Hong Kong,United Arab Emirates,Hong Kong,United Arab Emirates,"Bayuemas Oval, Kuala Lumpur",2026-06-12
 T20,Southern Brave,Manchester Originals,Manchester Originals,Southern Brave,"The Rose Bowl, Southampton",2022-08-18
 T20,Hobart Hurricanes,Perth Scorchers,Hobart Hurricanes,Perth Scorchers,"Western Australia Cricket Association Ground, Perth",2023-10-25
 T20,England,New Zealand,England,New Zealand,"Trent Bridge, Nottingham",2023-09-05
@@ -10874,6 +10903,7 @@ ODM,Northamptonshire,Middlesex,Middlesex,Middlesex,"County Ground, Northampton",
 Test,New Zealand,India,India,No Result,Basin Reserve,2014-02-14
 T20,Italy,Spain,Italy,Italy,"Desert Springs Cricket Ground, Almeria",2022-11-06
 ODM,Somerset,Middlesex,Middlesex,Middlesex,"The Cooper Associates County Ground, Taunton",2022-08-14
+MDM,Kent,Lancashire,Lancashire,Kent,"Stanley Park, Blackpool",2026-06-12
 T20,Trinbago Knight Riders,Guyana Amazon Warriors,Trinbago Knight Riders,Guyana Amazon Warriors,"Brian Lara Stadium, Tarouba, Trinidad",2023-09-09
 T20,Canterbury,Central Districts,Canterbury,Canterbury,McLean Park,2021-02-05
 T20,Belize,Panama,Belize,Belize,"Coolidge Cricket Ground, Antigua",2021-11-08
@@ -11347,6 +11377,7 @@ T20,Leinster Lightning,Munster Reds,Munster Reds,Munster Reds,"Bready Cricket Cl
 T20,Northern Diamonds,Southern Vipers,Northern Diamonds,Southern Vipers,"The Rose Bowl, Southampton",2022-06-04
 T20,Argentina,Brazil,Brazil,Argentina,"St George's College Ground, Buenos Aires",2024-12-16
 T20,Knights,Dolphins,Dolphins,Knights,"Diamond Oval, Kimberley",2014-11-28
+T20,Sweden,Finland,Finland,Finland,"Botkyrka Cricket Center, Stockholm",2026-06-12
 T20,Bangladesh,Sri Lanka,Bangladesh,Sri Lanka,"Newlands, Cape Town",2023-02-12
 T20,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,Royal Challengers Bengaluru,"MA Chidambaram Stadium, Chepauk, Chennai",2025-03-28
 Test,Bangladesh,New Zealand,New Zealand,No Result,Zahur Ahmed Chowdhury Stadium,2013-10-09
@@ -11952,6 +11983,7 @@ T20,South Africa,India,India,South Africa,"Holkar Cricket Stadium, Indore",2022-
 T20,MI New York,Texas Super Kings,Texas Super Kings,Texas Super Kings,"Grand Prairie Stadium, Dallas",2024-07-24
 MDM,Tasmania,Queensland,Queensland,No Result,"Allan Border Field, Brisbane",2024-11-15
 MDM,Essex,Hampshire,Hampshire,Essex,"The Rose Bowl, Southampton",2026-04-03
+T20,Finland,Norway,Norway,Finland,"Botkyrka Cricket Center, Stockholm",2026-06-13
 ODM,Glamorgan,Gloucestershire,Glamorgan,Gloucestershire,"Sophia Gardens, Cardiff",2018-05-18
 Test,South Africa,Sri Lanka,South Africa,South Africa,St George's Park,2016-12-26
 T20,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,Deccan Chargers,"Rajiv Gandhi International Stadium, Uppal",2012-05-18
@@ -12367,6 +12399,7 @@ T20,Peshawar Zalmi,Islamabad United,Islamabad United,Peshawar Zalmi,Rawalpindi C
 T20,Dhaka Dominators,Sylhet Strikers,Dhaka Dominators,Sylhet Strikers,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-01-16
 ODI,Zimbabwe,West Indies,West Indies,Zimbabwe,Harare Sports Club,2007-11-30
 T20,Glamorgan,Somerset,Somerset,Somerset,The Cooper Associates County Ground,2020-09-01
+T20,Nigeria,Malawi,Malawi,Nigeria,"Gahanga B Ground, Rwanda",2026-06-10
 ODM,Northern Diamonds,The Blaze,The Blaze,The Blaze,"Riverside Ground, Chester-le-Street",2023-05-06
 ODI,South Africa,Sri Lanka,Sri Lanka,South Africa,Kingsmead,2017-02-01
 T20,Gujarat Titans,Punjab Kings,Punjab Kings,Punjab Kings,"Narendra Modi Stadium, Ahmedabad",2024-04-04
@@ -14634,6 +14667,7 @@ MDM,Gloucestershire,Kent,Gloucestershire,Gloucestershire,"St Lawrence Ground, Ca
 T20,Argentina,Cayman Islands,Argentina,Cayman Islands,"Belgrano Athletic Club Ground, Buenos Aires",2023-03-04
 Test,South Africa,Sri Lanka,Sri Lanka,South Africa,Newlands,2017-01-02
 ODM,India,Zimbabwe,Zimbabwe,India,North-West University No1 Ground,2017-05-11
+T20,Hong Kong,Indonesia,Hong Kong,Indonesia,"Bayuemas Oval, Kuala Lumpur",2026-06-13
 T20,Melbourne Stars,Brisbane Heat,Brisbane Heat,Melbourne Stars,"Brisbane Cricket Ground, Woolloongabba, Brisbane",2021-12-27
 T20,New Zealand,Australia,New Zealand,Australia,"Eden Park, Auckland",2025-03-21
 ODI,Australia,Sri Lanka,Sri Lanka,Australia,"National Cricket Stadium, St George's",2007-04-16
@@ -14646,6 +14680,7 @@ T20,Dambulla Sixers,Galle Marvels,Galle Marvels,Dambulla Sixers,Rangiri Dambulla
 T20,South Africa,New Zealand,New Zealand,South Africa,"Willowmoore Park, Benoni",2023-10-15
 T20,United States of America,Argentina,Argentina,United States of America,"Woodley Cricket Field, Los Angeles",2023-09-04
 T20,Northern Superchargers,Birmingham Phoenix,Birmingham Phoenix,Birmingham Phoenix,"Headingley, Leeds",2021-08-17
+ODI,Australia,Bangladesh,Australia,Bangladesh,"Shere Bangla National Stadium, Mirpur",2026-06-11
 MDM,Gloucestershire,Essex,Essex,No Result,"County Ground, Bristol",2014-04-27
 T20,Chittagong Vikings,Sylhet Sixers,Sylhet Sixers,Sylhet Sixers,"Shere Bangla National Stadium, Mirpur",2017-12-03
 T20,Trent Rockets,Manchester Originals,Manchester Originals,Trent Rockets,"Old Trafford, Manchester",2022-08-13
@@ -15280,6 +15315,7 @@ T20,Trent Rockets,Manchester Originals,Manchester Originals,Trent Rockets,"Old T
 ODM,Nottinghamshire,Kent,Kent,Kent,"Trent Bridge, Nottingham",2018-06-14
 T20,Uttar Pradesh,Railways,Railways,Railways,Alur Cricket Stadium III,2021-01-12
 ODI,India,West Indies,India,India,Brabourne Stadium,2018-10-29
+T20,India,Pakistan,India,India,"Edgbaston, Birmingham",2026-06-14
 T20,Dolphins,Warriors,Dolphins,Warriors,"Buffalo Park, East London",2016-12-07
 ODM,Canada,Malaysia,Malaysia,Malaysia,Entebbe Cricket Oval,2017-05-26
 T20,Panadura Sports Club,Badureliya Sports Club,Badureliya Sports Club,Panadura Sports Club,"Colts Cricket Club Ground, Colombo",2025-06-05
@@ -15585,6 +15621,7 @@ ODI,Bangladesh,India,India,Bangladesh,"Shere Bangla National Stadium, Mirpur",20
 T20,Warwickshire,The Blaze,The Blaze,The Blaze,"Edgbaston, Birmingham",2026-05-27
 T20,Durham,Leicestershire,Leicestershire,Durham,Riverside Ground,2015-07-03
 T20,India,West Indies,West Indies,West Indies,Wankhede Stadium,2016-03-31
+MDM,Glamorgan,Sussex,Sussex,Sussex,"County Ground, Hove",2026-06-12
 Test,Australia,South Africa,South Africa,South Africa,Western Australia Cricket Association Ground,2016-11-03
 T20,Bangladesh,West Indies,Bangladesh,Bangladesh,New Wanderers Stadium,2007-09-13
 T20,Ireland,Sri Lanka,Ireland,Ireland,"Pembroke Cricket Club, Sandymount, Dublin",2024-08-13
@@ -15595,6 +15632,7 @@ ODM,Somerset,Essex,Essex,Somerset,"The Cooper Associates County Ground, Taunton"
 ODI,Sri Lanka,Pakistan,Pakistan,No Result,R Premadasa Stadium,2012-06-13
 T20,Bhutan,Maldives,Bhutan,Maldives,Gelephu International Cricket Ground,2024-10-23
 MDM,Durham,Nottinghamshire,Nottinghamshire,No Result,"Trent Bridge, Nottingham",2021-04-08
+T20,Sri Lanka,West Indies,Sri Lanka,West Indies,"Sabina Park, Kingston, Jamaica",2026-06-11
 T20,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Sharjah Cricket Stadium,2014-04-27
 T20,Botswana,Sierra Leone,Botswana,Sierra Leone,"Botswana Cricket Association Oval 1, Gaborone",2025-04-29
 T20,Sunrisers Eastern Cape,Paarl Royals,Sunrisers Eastern Cape,Paarl Royals,"St George's Park, Gqeberha",2025-12-31
@@ -15709,6 +15747,7 @@ T20,Sydney Sixers,Adelaide Strikers,Adelaide Strikers,Adelaide Strikers,Sydney C
 ODM,Qatar,Italy,Italy,Italy,Willowmoore Park C Field,2017-09-04
 MDM,South Australia,Tasmania,South Australia,South Australia,Adelaide Oval,2025-02-18
 T20,Melbourne Stars,Melbourne Renegades,Melbourne Stars,Melbourne Stars,Melbourne Cricket Ground,2019-01-01
+ODM,Warwickshire,Lancashire,Warwickshire,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",2026-06-13
 T20,Melbourne Stars,Melbourne Renegades,Melbourne Renegades,No Result,Hurstville Oval,2020-10-25
 MDM,Wellington Firebirds,Otago Volts,Otago Volts,Otago Volts,"University Oval, Dunedin",2013-01-24
 ODI,South Africa,Sri Lanka,Sri Lanka,Sri Lanka,"Senwes Park, Potchefstroom",2024-04-17
@@ -15790,6 +15829,7 @@ IT20,Japan,Samoa,Samoa,Samoa,Sano International Cricket Ground,2017-04-28
 MDM,Auckland Aces,Otago Volts,Auckland Aces,Otago Volts,"Eden Park Outer Oval, Auckland",2026-03-09
 T20,Scotland,Uganda,Scotland,Scotland,"Terdthai Cricket Ground, Bangkok",2025-11-20
 T20,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",2025-04-28
+T20,Sri Lanka,West Indies,West Indies,Sri Lanka,"Sabina Park, Kingston, Jamaica",2026-06-13
 T20,Barbados Tridents,Guyana Amazon Warriors,Guyana Amazon Warriors,Guyana Amazon Warriors,"Kensington Oval, Bridgetown",2019-09-22
 T20,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",2025-03-30
 ODI,Ireland,United Arab Emirates,United Arab Emirates,Ireland,Old Hararians,2018-03-12
@@ -16687,6 +16727,7 @@ T20,Bengal,Gujarat,Bengal,Gujarat,"Vidarbha Cricket Association Stadium, Jamtha"
 T20,Netherlands,Scotland,Netherlands,Netherlands,"Terdthai Cricket Ground, Bangkok",2025-11-28
 ODM,Worcestershire,Somerset,Worcestershire,Somerset,"County Ground, Taunton",2016-08-17
 T20,Malta,Finland,Malta,Finland,"Guernsey Rovers Athletic Club Ground, Port Soif",2024-08-21
+T20,Finland,Sweden,Sweden,Sweden,"Botkyrka Cricket Center, Stockholm",2026-06-14
 Test,Sri Lanka,Bangladesh,Sri Lanka,No Result,"Zahur Ahmed Chowdhury Stadium, Chattogram",2022-05-15
 MDM,Worcestershire,Derbyshire,Worcestershire,Worcestershire,"County Ground, New Road, Worcester",2021-05-27
 T20,Middlesex,Hampshire,Hampshire,Middlesex,Lord's,2018-07-26
@@ -16837,6 +16878,7 @@ T20,Lancashire,Durham,Durham,Lancashire,"Riverside Ground, Chester-le-Street",20
 ODI,Scotland,Papua New Guinea,Papua New Guinea,Scotland,"Sportpark Maarschalkerweerd, Utrecht",2024-08-06
 T20,Australia,Oman,Oman,Australia,"Kensington Oval, Bridgetown, Barbados",2024-06-05
 ODI,South Africa,Canada,Canada,South Africa,"Buffalo Park, East London",2003-02-27
+T20,Jersey,Guernsey,Guernsey,Jersey,"Grainville, St Saviour",2026-06-14
 ODI,Pakistan,Bangladesh,Pakistan,Pakistan,Gaddafi Stadium,2008-04-13
 T20,Bhutan,Thailand,Thailand,Thailand,"Bayuemas Oval, Kuala Lumpur",2023-07-31
 T20,India,Australia,India,India,Adelaide Oval,2026-02-21
@@ -17147,6 +17189,7 @@ MDM,Leicestershire,Gloucestershire,Gloucestershire,No Result,"Grace Road, Leices
 ODI,Australia,New Zealand,New Zealand,Australia,W.A.C.A. Ground,2019-02-22
 T20,Punjab Kings,Gujarat Titans,Gujarat Titans,Gujarat Titans,"Brabourne Stadium, Mumbai",2022-04-08
 ODI,Canada,Ireland,Ireland,Canada,"Toronto Cricket, Skating and Curling Club",2010-09-06
+MDM,Essex,Leicestershire,Leicestershire,Essex,"Grace Road, Leicester",2026-06-12
 T20,Joburg Super Kings,Durban's Super Giants,Durban's Super Giants,No Result,"The Wanderers Stadium, Johannesburg",2026-01-01
 T20,Croatia,Serbia,Serbia,Croatia,Bayer Uerdingen Cricket Ground,2024-07-10
 MDM,Durham,Yorkshire,Durham,Yorkshire,"Headingley, Leeds",2025-09-24
@@ -17413,6 +17456,7 @@ T20,Essex,Yorkshire,Essex,Essex,"Headingley, Leeds",2026-05-29
 T20,New Zealand,India,India,India,"Barsapara Cricket Stadium, Guwahati",2026-01-25
 T20,Kuwait,Bahrain,Bahrain,Kuwait,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2020-02-26
 T20,Madhya Pradesh,Mumbai,Madhya Pradesh,Mumbai,"Saurashtra Cricket Association Stadium, Rajkot",2022-10-12
+T20,Australia,South Africa,Australia,Australia,"Old Trafford, Manchester",2026-06-13
 T20,England,Pakistan,Pakistan,Pakistan,Dubai International Cricket Stadium,2010-02-20
 MDM,Otago Volts,Canterbury,Otago Volts,Canterbury,University of Otago Oval,2018-04-02
 T20,Lancashire,Hampshire,Hampshire,Hampshire,"Stanley Park, Blackpool",2026-06-09
@@ -18680,6 +18724,7 @@ Test,England,India,England,India,Narendra Modi Stadium,2021-02-24
 T20,Biratnagar Kings,Janakpur Bolts,Janakpur Bolts,Janakpur Bolts,"Tribhuvan University International Cricket Ground, Kirtipur",2024-11-30
 T20,Malawi,Rwanda,Malawi,Rwanda,"Gahanga B Ground, Rwanda",2024-05-31
 ODI,Canada,Oman,Canada,Oman,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",2025-05-23
+T20,Indonesia,Oman,Indonesia,Indonesia,"YSD-UKM Cricket Oval, Bangi",2026-06-10
 MDM,Auckland Aces,Otago Volts,Auckland Aces,Otago Volts,"University Oval, Dunedin",2013-02-14
 Test,South Africa,New Zealand,South Africa,South Africa,"Hagley Oval, Christchurch",2022-02-25
 MDM,Kent,Northamptonshire,Northamptonshire,Northamptonshire,"Kent County Cricket Ground, Beckenham",2016-09-06
@@ -18854,6 +18899,7 @@ T20,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Kolkata Knight 
 MDM,Derbyshire,Leicestershire,Leicestershire,Derbyshire,"County Ground, Derby",2014-09-23
 T20,Malaysia,Indonesia,Malaysia,Malaysia,"Terdthai Cricket Ground, Bangkok",2025-12-15
 ODI,South Africa,Ireland,South Africa,South Africa,"Zayed Cricket Stadium, Abu Dhabi",2024-10-02
+T20,United Arab Emirates,Thailand,Thailand,Thailand,"Bayuemas Oval, Kuala Lumpur",2026-06-13
 T20,Australia,India,India,No Result,"Dr DY Patil Sports Academy, Mumbai",2022-12-11
 T20,Welsh Fire,Southern Brave,Southern Brave,Southern Brave,"Sophia Gardens, Cardiff",2023-08-12
 T20,Tamil Union Cricket and Athletic Club,Colts Cricket Club,Tamil Union Cricket and Athletic Club,Colts Cricket Club,Colombo Cricket Club Ground,2025-05-16
@@ -19337,6 +19383,7 @@ T20,South Africa,Zimbabwe,South Africa,South Africa,"Mahinda Rajapaksa Internati
 T20,Gloucestershire,Middlesex,Gloucestershire,Gloucestershire,"County Ground, Chelmsford",2024-07-18
 T20,Uganda,Rwanda,Rwanda,Uganda,"Gahanga International Cricket Stadium, Rwanda",2024-12-12
 T20,China,Hong Kong,Hong Kong,Hong Kong,Zhejiang University of Technology Cricket Field,2024-11-10
+ODM,Surrey,The Blaze,The Blaze,The Blaze,"Kent County Cricket Ground, Beckenham",2026-06-13
 ODI,India,Sri Lanka,Sri Lanka,India,Adelaide Oval,2008-02-19
 T20,Essex,Sussex,Sussex,Sussex,"County Ground, Chelmsford",2021-06-15
 MDM,Durham,Warwickshire,Durham,Warwickshire,"Riverside Ground, Chester-le-Street",2025-04-11
@@ -20149,6 +20196,7 @@ T20,England,Australia,Australia,England,Sophia Gardens,2015-08-31
 T20,Uganda,Namibia,Uganda,Uganda,Entebbe Cricket Oval,2025-03-14
 T20,Hobart Hurricanes,Sydney Thunder,Sydney Thunder,Hobart Hurricanes,"Blacktown International Sportspark, Sydney",2022-10-18
 T20,Melbourne Renegades,Sydney Sixers,Sydney Sixers,Sydney Sixers,Sydney Cricket Ground,2024-12-16
+MDM,Durham,Derbyshire,Derbyshire,Durham,"Riverside Ground, Chester-le-Street",2026-06-12
 T20,Dolphins,Titans,Titans,Titans,"St George's Park, Port Elizabeth",2022-02-14
 T20,New Zealand,Scotland,New Zealand,New Zealand,Kennington Oval,2009-06-06
 ODI,Zimbabwe,Netherlands,Netherlands,Zimbabwe,"Queens Sports Club, Bulawayo",2003-02-28
@@ -20323,6 +20371,7 @@ T20,Bahrain,Qatar,Qatar,No Result,"UKM-YSD Cricket Oval, Bangi",2022-12-22
 MDM,Warwickshire,Sussex,Warwickshire,Sussex,"County Ground, Hove",2015-05-24
 T20,Adelaide Strikers,Perth Scorchers,Perth Scorchers,Perth Scorchers,"Junction Oval, Melbourne",2025-11-16
 ODI,United Arab Emirates,Namibia,Namibia,United Arab Emirates,"United Cricket Club Ground, Windhoek",2023-04-02
+T20,Sri Lanka,West Indies,West Indies,West Indies,"Sabina Park, Kingston, Jamaica",2026-06-14
 T20,Italy,Croatia,Italy,Italy,Kerava National Cricket Ground,2022-07-16
 ODM,Essex,Yorkshire,Yorkshire,Yorkshire,"North Marine Road Ground, Scarborough",2024-08-06
 T20,Khulna Tigers,Dhaka Capitals,Dhaka Capitals,Khulna Tigers,"Shere Bangla National Stadium, Mirpur",2025-01-03
@@ -20531,6 +20580,7 @@ ODI,Sri Lanka,Pakistan,Sri Lanka,Sri Lanka,"Mahinda Rajapaksa International Cric
 Test,West Indies,Bangladesh,West Indies,West Indies,Shere Bangla National Stadium,2021-02-11
 T20,Sweden,Italy,Sweden,Italy,"Simar Cricket Ground, Rome",2025-05-26
 T20,France,Sweden,Sweden,France,"FB Fields, St Clement",2023-05-30
+T20,Netherlands,Bangladesh,Netherlands,Bangladesh,"Edgbaston, Birmingham",2026-06-14
 T20,Jamaica Tallawahs,Guyana Amazon Warriors,Guyana Amazon Warriors,Jamaica Tallawahs,"Providence Stadium, Guyana",2022-09-28
 ODI,India,Sri Lanka,Sri Lanka,India,JSCA International Stadium Complex,2014-11-16
 T20,Adelaide Strikers,Brisbane Heat,Adelaide Strikers,Brisbane Heat,"Brisbane Cricket Ground, Woolloongabba",2015-12-19
@@ -20750,6 +20800,7 @@ T20,Vidarbha,Chhattisgarh,Vidarbha,Vidarbha,Shaheed Veer Narayan Singh Internati
 MDM,Essex,Hampshire,Hampshire,Essex,"County Ground, Chelmsford",2017-05-19
 T20,Somerset,Kent,Kent,Somerset,"The Cooper Associates County Ground, Taunton",2024-06-14
 T20,Indonesia,Cambodia,Indonesia,Indonesia,Udayana Cricket Ground,2025-12-25
+MDM,Middlesex,Worcestershire,Worcestershire,Middlesex,"County Ground, New Road, Worcester",2026-06-12
 T20,South Korea,China,South Korea,China,Yeonhui Cricket Ground,2019-09-20
 T20,England,West Indies,West Indies,West Indies,Arundel Castle Cricket Club Ground,2012-09-16
 T20,Hobart Hurricanes,Melbourne Stars,Melbourne Stars,Hobart Hurricanes,"Bellerive Oval, Hobart",2021-10-19
@@ -20802,6 +20853,7 @@ T20,Rangpur Riders,Sylhet Royals,Sylhet Royals,Sylhet Royals,"Shere Bangla Natio
 T20,Malawi,Seychelles,Malawi,Malawi,Gahanga International Cricket Stadium. Rwanda,2021-10-20
 T20,Chhattisgarh,Karnataka,Karnataka,Karnataka,"ACA Stadium, Barsapara",2021-11-05
 T20,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,MA Chidambaram Stadium,2019-04-06
+MDM,Somerset,Nottinghamshire,Nottinghamshire,Somerset,"Trent Bridge, Nottingham",2026-06-12
 T20,Middlesex,Hampshire,Hampshire,Hampshire,"Radlett Cricket Club, Radlett",2022-06-07
 T20,Karachi Kings,Lahore Qalandars,Lahore Qalandars,Lahore Qalandars,National Stadium,2021-02-28
 T20,Tanzania,Netherlands,Netherlands,Netherlands,"Asian Institute of Technology Ground, Bangkok",2025-11-23
@@ -21029,6 +21081,7 @@ T20,Scotland,United States of America,Scotland,Scotland,Forthill,2019-08-31
 MDM,Canterbury,Central Stags,Central Stags,Canterbury,Hagley Oval,2016-10-29
 T20,Assam,Delhi,Delhi,Delhi,Motibaug Cricket Ground,2016-01-06
 ODI,New Zealand,Pakistan,New Zealand,New Zealand,"Gaddafi Stadium, Lahore",2025-02-08
+T20,Essex,Kent,Kent,Essex,"County Ground, Chelmsford",2026-06-09
 MDM,Auckland Aces,Wellington Firebirds,Auckland Aces,Auckland Aces,"Eden Park Outer Oval, Auckland",2022-03-28
 T20,Mumbai Indians,Delhi Daredevils,Mumbai Indians,Mumbai Indians,Brabourne Stadium,2010-04-13
 T20,Wellington,Central Districts,Wellington,No Result,"Basin Reserve, Wellington",2024-01-13
@@ -21252,6 +21305,7 @@ MDM,New South Wales,South Australia,South Australia,New South Wales,Adelaide Ova
 T20,Germany,Italy,Italy,Italy,"Hazelaarweg, Rotterdam",2025-08-21
 ODI,Scotland,Oman,Oman,Scotland,Bulawayo Athletic Club,2023-06-25
 T20,Indonesia,Bahrain,Indonesia,Indonesia,"Selangor Turf Club, Kuala Lumpur",2024-02-11
+T20,United Arab Emirates,Malaysia,United Arab Emirates,United Arab Emirates,"Bayuemas Oval, Kuala Lumpur",2026-06-10
 MDM,Colombo Cricket Club,Nondescripts Cricket Club,Colombo Cricket Club,No Result,"Nondescripts Cricket Club Ground, Colombo",2025-01-31
 T20,Australia,England,England,England,"Kensington Oval, Bridgetown",2010-05-16
 Test,India,South Africa,India,No Result,M Chinnaswamy Stadium,2015-11-14
@@ -21483,6 +21537,7 @@ T20,Barisal Bulls,Dhaka Dynamites,Dhaka Dynamites,Dhaka Dynamites,"Shere Bangla 
 T20,MI Cape Town,Durban's Super Giants,Durban's Super Giants,No Result,"Kingsmead, Durban",2025-01-21
 MDM,Yorkshire,Essex,Yorkshire,No Result,"County Ground, Chelmsford",2025-05-09
 T20,Singapore,Malaysia,Singapore,Malaysia,"Terdthai Cricket Ground, Bangkok",2025-12-13
+ODI,Bangladesh,Australia,Bangladesh,Australia,"Shere Bangla National Stadium, Mirpur",2026-06-14
 T20,Quetta Gladiators,Multan Sultans,Multan Sultans,Quetta Gladiators,National Stadium,2021-03-03
 T20,Mozambique,Nigeria,Nigeria,Nigeria,Gahanga International Cricket Stadium. Rwanda,2022-12-01
 ODI,West Indies,South Africa,South Africa,West Indies,"Kensington Oval, Bridgetown",2016-06-24
